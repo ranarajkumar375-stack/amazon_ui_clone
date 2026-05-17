@@ -1,0 +1,8 @@
+{
+  "name": "Amazon Clone",
+  "description": "A basic Amazon-inspired e-commerce site with navigation and a white search bar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
